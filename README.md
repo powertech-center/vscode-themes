@@ -1,16 +1,18 @@
-# powerthemes README
+# PowerTech Themes for VSCode
 
-## Working with Markdown
+We care about Developers, so we create Simple, Powerful and Convenient tools for. This Extension is intended for special Developers who want to make their work even more comfortable using an inspiring color Theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### PowerTech Dark (based on default Dark theme):
+![](https://raw.githubusercontent.com/powertech-center/vscode-themes/master/images/powertech_dark.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### PowerTech Light (based on default Light theme):
+![](https://raw.githubusercontent.com/powertech-center/vscode-themes/master/images/powertech_light.png)
 
-## For more information
+### Old-school DevC++ (based on [Dev-C++ Theme](https://marketplace.visualstudio.com/items?itemName=Guyutongxue.devcpp-theme)):
+![](https://raw.githubusercontent.com/powertech-center/vscode-themes/master/images/devcpp.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Old-school Borland (based on [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)):
+![](https://raw.githubusercontent.com/powertech-center/vscode-themes/master/images/borland.png)
 
-**Enjoy!**
+### Old-school DOS (based on [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)):
+![](https://raw.githubusercontent.com/powertech-center/vscode-themes/master/images/dos.png)
