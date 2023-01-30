@@ -26,31 +26,81 @@
   "contributes": {
     "themes": [
       {
-        "id": "PowerTech Dark",
         "label": "PowerTech Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/powertech_dark.json"
       },
       {
-        "id": "PowerTech Light",
         "label": "PowerTech Light",
         "uiTheme": "vs",
         "path": "./themes/powertech_light.json"
       },
       {
-        "id": "Old-school DevC++",
+        "label": "IntelliJ IDEA Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij_idea_dark.json"
+      },
+      {
+        "label": "IntelliJ IDEA Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij_idea_light.json"
+      },
+      {
+        "label": "Xcode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode_dark.json"
+      },
+      {
+        "label": "Xcode Light",
+        "uiTheme": "vs",
+        "path": "./themes/xcode_light.json"
+      },
+      {
+        "label": "Embarcadero Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/embarcadero_dark.json"
+      },
+      {
+        "label": "Embarcadero Light",
+        "uiTheme": "vs",
+        "path": "./themes/embarcadero_light.json"
+      },
+      {
+        "label": "Office Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/office_dark.json"
+      },
+      {
+        "label": "Office Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/office_light.json"
+      },
+      {
+        "label": "CLion",
+        "uiTheme": "vs",
+        "path": "./themes/clion.json"
+      },
+      {
+        "label": "QtCreator",
+        "uiTheme": "vs",
+        "path": "./themes/qtcreator.json"
+      },
+      {
+        "label": "GitHub",
+        "uiTheme": "vs",
+        "path": "./themes/github.json"
+      },
+      {
         "label": "Old-school DevC++",
         "uiTheme": "vs",
         "path": "./themes/devcpp.json"
       },
       {
-        "id": "Old-school Borland",
         "label": "Old-school Borland",
         "uiTheme": "vs",
         "path": "./themes/borland.json"
       },
       {
-        "id": "Old-school DOS",
         "label": "Old-school DOS",
         "uiTheme": "vs",
         "path": "./themes/dos.json"

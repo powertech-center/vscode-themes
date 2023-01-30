@@ -3,7 +3,7 @@ import json
 import os
 
 # date time version
-version = datetime.datetime.utcnow().strftime('%y.%m.%d')
+version = datetime.datetime.utcnow().strftime('%y.%m.%d').replace('.0', '.')
 print("Publishing " + version + "...", flush=True)
 
 # modify package.json version

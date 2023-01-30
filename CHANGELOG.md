@@ -1,8 +1,21 @@
 # Change Log
 
-All notable changes to the "powerthemes" extension will be documented in this file.
+## 23.1.30
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- IntelliJ IDEA Dark/Light
+- Xcode Dark/Light
+- Embarcadero Dark/Light
+- Office Dark/Light
+- CLion
+- QtCreator
+- GitHub
+
+## 22.11.14
+
+- PowerTech Dark/Light
+- Old-school DevC++
+- Old-school Borland
+- Old-school DOS
 
 ## [Unreleased]
 

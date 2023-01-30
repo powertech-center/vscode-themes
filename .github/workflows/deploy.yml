@@ -1,4 +1,4 @@
-name: PowerTech C/C++ Extension Deploy 
+name: PowerTech Themes Extension Deploy 
 
 on:
   push:
