@@ -15,7 +15,18 @@
     "url": "https://github.com/powertech-center/vscode-themes/issues"
   },
   "homepage": "https://powertech.center",
-  "keywords": [],
+  "keywords": [
+    "C++",
+    "JetBrains",
+    "IntelliJ",
+    "IDEA",
+    "Xcode",
+    "Embarcadero",
+    "Delphi",
+    "Office",
+    "CLion",
+    "QtCreator"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
